@@ -1,0 +1,52 @@
+[
+  {
+    "input": "Trẻ 2 tháng tuổi có tiêm vắc-xin Rotavirus được không?",
+    "output": "Trẻ 2 tháng tuổi có thể tiêm vắc-xin Rotavirus theo khuyến cáo của bác sĩ. Vắc-xin này được khuyến nghị cho trẻ từ 6 tuần đến 6 tháng tuổi.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 5 tuổi có tiêm vắc-xin thủy đậu được không?",
+    "output": "Trẻ 5 tuổi có thể tiêm vắc-xin thủy đậu. Vắc-xin này được khuyến nghị cho trẻ em từ 12 tháng tuổi trở lên.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 10 tuổi có tiêm vắc-xin HPV được không?",
+    "output": "Trẻ 10 tuổi có thể tiêm vắc-xin HPV. Vắc-xin này được khuyến nghị cho trẻ em gái và trẻ em trai từ 9 tuổi trở lên.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 6 tháng tuổi có tiêm vắc-xin cúm được không?",
+    "output": "Trẻ 6 tháng tuổi có thể tiêm vắc-xin cúm. Vắc-xin này được khuyến nghị cho trẻ em từ 6 tháng tuổi trở lên.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 1 tuổi có tiêm vắc-xin MMR (sởi, quai bị, rubella) được không?",
+    "output": "Trẻ 1 tuổi có thể tiêm vắc-xin MMR. Vắc-xin này được khuyến nghị cho trẻ em từ 12 tháng tuổi.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 3 tuổi có tiêm vắc-xin phế cầu khuẩn được không?",
+    "output": "Trẻ 3 tuổi có thể tiêm vắc-xin phế cầu khuẩn. Vắc-xin này được khuyến nghị cho trẻ em dưới 5 tuổi.",
+    "result": true
+  },
+  {
+    "input": "Trẻ sơ sinh có tiêm vắc-xin viêm gan B được không?",
+    "output": "Trẻ sơ sinh có thể tiêm vắc-xin viêm gan B. Vắc-xin này được khuyến nghị cho tất cả trẻ sơ sinh ngay sau khi sinh.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 4 tuổi có tiêm vắc-xin bạch hầu, ho gà, uốn ván (DPT) được không?",
+    "output": "Trẻ 4 tuổi có thể tiêm vắc-xin DPT. Vắc-xin này được khuyến nghị cho trẻ em từ 2 tháng tuổi đến 7 tuổi.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 9 tuổi có tiêm vắc-xin bại liệt được không?",
+    "output": "Trẻ 9 tuổi có thể tiêm vắc-xin bại liệt. Vắc-xin này được khuyến nghị cho trẻ em và người lớn.",
+    "result": true
+  },
+  {
+    "input": "Trẻ 15 tuổi có tiêm vắc-xin viêm não Nhật Bản được không?",
+    "output": "Trẻ 15 tuổi có thể tiêm vắc-xin viêm não Nhật Bản. Vắc-xin này được khuyến nghị cho trẻ em và người lớn sống trong hoặc đến các khu vực có nguy cơ mắc bệnh.",
+    "result": true
+  }
+]

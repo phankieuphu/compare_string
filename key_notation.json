@@ -1,0 +1,7 @@
+{
+  "notations": [
+    { "key": "từ", "value": 1 },
+    { "key": "trở", "value": 1 },
+    { "key": "dưới", "value": -1 }
+  ]
+}

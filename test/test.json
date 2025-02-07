@@ -1,0 +1,227 @@
+[
+  {
+    "input": "trẻ 6 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 6 tháng tuổi không nên tiêm vacxin. bởi vì không khuyến cáo tiêm cho trẻ dưới 9 tháng tuổi. chỉ tiêm khi có chỉ định đặc biệt từ bác sĩ.",
+    "result": false
+  },
+  {
+    "input": "trẻ < 8 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ < 8 tháng tuổi không nên tiêm vacxin. bởi vì không khuyến cáo tiêm cho trẻ dưới 9 tháng tuổi. chỉ tiêm khi có chỉ định đặc biệt từ bác sĩ.",
+    "result": false
+  },
+  {
+    "input": "trẻ trên 8 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 8 tháng tuổi không nên tiêm vacxin. bởi vì không khuyến cáo tiêm cho trẻ dưới 9 tháng tuổi. chỉ tiêm khi có chỉ định đặc biệt từ bác sĩ.",
+    "result": false
+  },
+  {
+    "input": "trẻ dưới 9 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 9 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 1 năm tuổi có tiêm vacxin được không",
+    "output": "trẻ 1 năm tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 11 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 11 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 12 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 12 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 13 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 13 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 14 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 14 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 15 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 15 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 16 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 16 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 17 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 17 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 18 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 18 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 19 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 19 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 20 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 20 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 21 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 21 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 22 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 22 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 23 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 23 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 24 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 24 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 25 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 25 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 26 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 26 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 27 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 27 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 28 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 28 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 29 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 29 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 30 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 30 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 31 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 31 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 32 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 32 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 33 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 33 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 34 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 34 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 35 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 35 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 36 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 36 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 37 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 37 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 38 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 38 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 39 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 39 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 40 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 40 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 41 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 41 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 42 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 42 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 43 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 43 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 44 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 44 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 45 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 45 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 46 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 46 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 47 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 47 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 48 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 48 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 49 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 49 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  },
+  {
+    "input": "trẻ 50 tháng tuổi có tiêm vacxin được không",
+    "output": "trẻ 50 tháng tuổi có thể tiêm vacxin theo khuyến cáo của bác sĩ.",
+    "result": true
+  }
+]

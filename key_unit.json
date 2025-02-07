@@ -1,0 +1,8 @@
+{
+  "units": [
+    { "key": "tuần", "value": "week" },
+    { "key": "tháng", "value": "month" },
+    { "key": "tuổi", "value": "year" },
+    { "key": "năm", "value": "year" }
+  ]
+}
